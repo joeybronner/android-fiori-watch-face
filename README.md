@@ -1,2 +1,10 @@
-# android-fiori-watch-face
-A SAP Fiori design like watch face for Android Wear
+
+Android SAP Fiori Design like
+===================================
+
+Pre-requisites
+--------------
+
+- Android SDK 25
+- Android Build Tools v25.0.2
+- Android Support Repository
